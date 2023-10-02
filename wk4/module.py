@@ -1,2 +1,2 @@
 def my_func(val):
-    print('She said: "' + str(val) + '"')
+    print(f'She said: "{str(val)}"')
